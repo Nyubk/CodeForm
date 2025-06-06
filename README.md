@@ -1,2 +1,4 @@
-# CodeForm
-formulario para programación
+server/
+├── main.py
+├── .env
+└── requirements.txt
